@@ -1227,6 +1227,10 @@ http://61.184.46.85:9901/tsfile/live/1028_1.m3u8?key=txiptv
 http://223.75.149.129:9906/tsfile/live/1002_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰卡通.png" group-title="动画频道",金鹰卡通
 http://113.241.133.223:9901/tsfile/live/1005_1.m3u8?key=txiptv
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/嘉佳卡通.png" group-title="动画频道",嘉佳卡通
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=gdjjkt
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/优漫卡通.png" group-title="动画频道",优漫卡通
+http://63.141.230.178:82/gslb/zbdq5.m3u8?id=ymkt
 
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/家庭影院.png" group-title="电影频道",CHC家庭影院
 http://69.30.245.50/live/chcjt.m3u8
@@ -1408,3 +1412,4 @@ https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/13339666728414330883
 https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-logo="http://123.57.58.70:5678/data/icon/春晚.png" group-title="历年春晚",春晚2025
 https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
+
