@@ -1194,9 +1194,13 @@ https://lhttp.qtfm.cn/live/1757/64k.mp3
 #EXTINF:-1 tvg-logo="https://cnvod.cnr.cn/audio2016/default/2015/8/11/1439283104654.jpg" group-title="广播电台",浙江城市之声
 https://tftv3gradnmtzgrzdqptqgehn4h5bqt1sa5djqt1zy7mcpozgg5u1f3tsh.100ycdn.com/satellitepull.cnr.cn/live/wxzjcszs/playlist.m3u8?wsSession=3e9a9024eebb2914cf39b498-177253390340399&wsIPSercert=ac565729a8eaaa64829cc136ee41773c&wsiphost=local&wsBindIP=1
 
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卡酷动画.png" group-title="动画频道",卡酷动画
+#EXTINF:-1 group-title="动画频道",卡酷少儿
+http://218.13.170.98:9901/tsfile/live/1021_1.m3u8
+#EXTINF:-1 group-title="动画频道",卡酷少儿
+http://58.57.40.22:9901/tsfile/live/1060_1.m3u8
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卡酷动画.png" group-title="动画频道",卡酷少儿
 http://122.228.104.230:9901/tsfile/live/1006_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卡酷动画.png" group-title="动画频道",卡酷动画
+#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卡酷动画.png" group-title="动画频道",卡酷少儿
 http://61.184.46.85:9901/tsfile/live/1027_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰卡通.png" group-title="动画频道",金鹰卡通
 http://fuxin.yunjifei.top:999/tsfile/live/1012_1.m3u8?key=txiptv
@@ -1488,5 +1492,6 @@ https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/13339666728414330883
 https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-logo="http://123.57.58.70:5678/data/icon/春晚.png" group-title="历年春晚",春晚2025
 https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
+
 
 
