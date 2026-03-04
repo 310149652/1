@@ -1227,19 +1227,31 @@ https://live.metshop.top/huya/11352879
 #EXTINF:-1 tvg-logo="https://pics2.baidu.com/feed/18d8bc3eb13533faa8121d9f3d0dc80f43345bcd.jpeg@f_auto?token=03115c69ad13faf593e6b97f7bb49de7" group-title="动画频道",猫和老鼠
 https://live.iill.top/huya/11352879
 
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/家庭影院.png" group-title="电影频道",CHC家庭影院
+#EXTINF:-1 group-title="电影频道",CHC家庭影院
 http://69.30.245.50/live/chcjt.m3u8
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/家庭影院.png" group-title="电影频道",CHC家庭影院
+#EXTINF:-1 group-title="电影频道",CHC家庭影院
 http://122.228.104.230:9901/tsfile/live/1017_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/家庭影院.png" group-title="电影频道",CHC家庭影院
+#EXTINF:-1 group-title="电影频道",CHC家庭影院
 http://61.184.46.85:9901/tsfile/live/1023_1.m3u8?key=txiptv
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="电影频道",CHC动作电影
 http://69.30.245.50/live/chcdz.m3u8
 #EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="电影频道",CHC动作电影
 http://61.184.46.85:9901/tsfile/live/1024_1.m3u8?key=txiptv
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/影迷电影.png" group-title="电影频道",CHC影迷电影
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://logo.catvod.com/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
+http://m.061899.xyz/mg/ymdy
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://logo.catvod.com/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
+http://go.bkpcp.top/mg/ymdy
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://logo.catvod.com/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
+http://36.135.118.195:85/tsfile/live/1020_1.m3u8?key=txiptv&playlive=1&authid=0$吉林/移动
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://logo.catvod.com/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
+http://118.79.115.129:6001/rtp/226.0.2.93:8004$山西联通
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://logo.catvod.com/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
+http://113.245.248.157:60001/udp/239.76.245.242:1234$湖南电信
+#EXTINF:-1 tvg-name="CHC影迷电影" tvg-logo="https://logo.catvod.com/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
+http://58.19.180.108:9981/stream/channelid/473633391?profile=pass$襄阳/联通
+#EXTINF:-1 tvg-logo="https://logo.catvod.com/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
 http://69.30.245.50/live/chcym.m3u8
-#EXTINF:-1 tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/影迷电影.png" group-title="电影频道",CHC影迷电影
+#EXTINF:-1 tvg-logo="https://logo.catvod.com/CHC影迷电影.png" group-title="电影频道",CHC影迷电影
 http://122.228.104.230:9901/tsfile/live/1018_1.m3u8?key=txiptv
 #EXTINF:-1 group-title="电影频道",天映经典
 http://pull-vivek.speedws.com/live/aaatyjd.flv
@@ -1492,6 +1504,7 @@ https://res.cctvnews.cctv.com/video/3005/record/cctv/merge1/13339666728414330883
 https://svip.high24-playback.com/20250129/17159_7bca93c4/2000k/hls/mixed.m3u8
 #EXTINF:-1 tvg-logo="http://123.57.58.70:5678/data/icon/春晚.png" group-title="历年春晚",春晚2025
 https://svipsvip.ffzyread1.com/20250129/35458_c988286f/index.m3u8
+
 
 
 
